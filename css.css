@@ -12,7 +12,7 @@
             font-family: 'Segoe UI', Arial, sans-serif;
             line-height: 1.6;
             color: white;
-            background: linear-gradient(135deg, #c0392b 0%, #e74c3c 100%);
+            background: linear-gradient(135deg, #000dff 0%, #000dff 100%);
             min-height: 100vh;
         }
 
@@ -44,7 +44,7 @@
 
         /* Верхнее меню */
         .top-nav {
-            background: rgba(231, 76, 60, 0.98);
+            background: rgba(71, 60, 231, 0.98);
             border-radius: 12px;
             padding: 12px 0;
             margin: 20px auto;
@@ -88,14 +88,14 @@
         }
 
         h4 {
-            color: #e74c3c;
+            color: #000dff;
             margin-bottom: 20px;
             text-align: center;
             font-size: 1.3rem;
         }
     
         h3 {
-            color: #e74c3c;
+            color: #000dff;
             margin-bottom: 20px;
             text-align: center;
             font-size: 1.6rem;
@@ -180,7 +180,7 @@
         }
 
         .close-btn {
-            background: #e74c3c;
+            background: #000dff;
             color: white;
             border: none;
             padding: 10px 20px;
